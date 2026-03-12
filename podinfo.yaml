@@ -3,7 +3,7 @@ id: exposed-readyz-exact
 info:
   name: Exposed Readiness Endpoint Exact podinfo
   author: hunter
-  severity: low
+  severity: critical
   tags: exposure
 
 http:
